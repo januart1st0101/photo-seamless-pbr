@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片轉無縫 PBR 材質"
+  short_description: "將地板、瓷磚或其他表面照片製作成 4K 無縫 PBR 材質貼圖"
+  default_prompt: "請將這張表面照片製作成 4K 無縫 PBR 材質貼圖，保留原色並移除光影與反射。"
